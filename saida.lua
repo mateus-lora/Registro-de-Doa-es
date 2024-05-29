@@ -1,0 +1,5 @@
+os.execute("cls")
+io.write("Digite seu nome: ") -- ou io.write()
+local nome = io.read()
+os.execute("cls")
+print("Bem-Vindo a linguagem Lua "..nome)

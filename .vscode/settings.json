@@ -1,0 +1,21 @@
+{
+    "Lua.diagnostics.globals": [
+        "read",
+        "novoLocal",
+        "logins",
+        "t",
+        "locais_de_doacao",
+        "nome1",
+        "idade",
+        "f",
+        "exemplo"
+    ],
+    "Lua.diagnostics.disable": [
+        "empty-block",
+        "discard-returns",
+        "param-type-mismatch",
+        "missing-parameter",
+        "unused-function",
+        "cast-local-type"
+    ]
+}
